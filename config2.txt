@@ -1,0 +1,7 @@
+|#
+Описание конфигурации робота
+#|
+speed = 100
+battery_capacity = 5000
+sensor_data = ({ 100, 200, 300 })
+max_distance = 10000
